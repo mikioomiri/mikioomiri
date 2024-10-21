@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mikioomiri
+- 👀 I’m interested in Rust, TypeScript, browsers, webextensions.
+- 🌱 I’m currently learning TypeScript.
